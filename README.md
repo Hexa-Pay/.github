@@ -1,2 +1,2 @@
-# .github
+# HexaPay
 Pay Together, Stay Connected

@@ -1,2 +1,2 @@
-# HexaPay
-Pay Together, Stay Connected
+# Lawbot
+Law At Your Ease !!
